@@ -50,7 +50,7 @@ Once the app is running, you can follow these steps to use it:
 That's it! With these instructions, you should be able to set up and use the Archetyper Streamlit app with ease.
 
 You can access the development version of the app here:
-https://faisal-saddique-archetyper-archetyper-bbt8be.streamlit.app/
+(link revoked due to client's concerns)
 
 # App 2: AI Research Assistant
 ## Description:
@@ -75,4 +75,4 @@ The AI Research Assistant is a Python script that utilizes OpenAI's GPT-3.5 mode
 8.	Enjoy!
 
 You can access the development version of the app here:
-https://odongo12-gptmax2-app-users-78ucj4.streamlit.app/
+(link revoked due to client's concerns)
